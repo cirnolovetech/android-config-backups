@@ -1,3 +1,4 @@
 **Configuring list:**
-+ Obtainium
-+ Florisboard
++ Obtainium (Config/Themeing/Apps)
++ Fcitx5 (Themeing/Layout/Unikey)
++ Florisboard (Unused)
