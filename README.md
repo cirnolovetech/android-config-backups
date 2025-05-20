@@ -1,1 +1,3 @@
-Use it if you want, idc.
+**Configuring list:**
++ Obtainium
++ Florisboard
